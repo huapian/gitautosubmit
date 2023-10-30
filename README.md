@@ -43,9 +43,9 @@ springboot的定时任务,可以选其他的定时任务适合项目的即可(wi
         System.out.println("脚本执行完了........"+ DateUtils.getTime());  
     }  
 
-#### 执行cmd命令的工具类[CmdUtils](https://gitee.com/huapian/gitAutoCom/blob/master/CmdUtils.java "CmdUtils")
+#### 执行cmd命令的工具类[CmdUtils](https://github.com/huapian/gitautosubmit/blob/master/CmdUtils.java "CmdUtils")
 
-#### 提交脚本[git.sh](https://gitee.com/huapian/gitAutoCom/blob/master/git.sh "git.sh")
+#### 提交脚本[git.sh](https://github.com/huapian/gitautosubmit/blob/master/git.sh "git.sh")
 
 ------
 
